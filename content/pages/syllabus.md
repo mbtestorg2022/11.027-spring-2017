@@ -56,14 +56,83 @@ Class requirements include reading, ongoing assignments related to development o
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation/Attendance | 15% |
-| Disaster Mitigation Plan Memo (draft and revision) | 15% |
-| Field Travel, Research and Report (draft and revision) | 15% |
-| Research Blog | 20% |
-| Posters/Presentations (draft and revision) | 15% |
-| Quizzes | 10% |
-| Final Report | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
 
-Final grades are based on a weighted average for the term. Grade cutoff points are as follows: A = 93–100% B+ = 87–89% C+ = 77–79% D+ = 67–69% A- = 90–92% B = 83–86% C = 73–76% D = 63–66% B- = 80–82% C- = 70–72% D- = 60–62% F = <60
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation/Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Disaster Mitigation Plan Memo (draft and revision)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field Travel, Research and Report (draft and revision)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Blog
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Posters/Presentations (draft and revision)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+Final grades are based on a weighted average for the term. Grade cutoff points are as follows: A = 93–100% B+ = 87–89% C+ = 77–79% D+ = 67–69% A- = 90–92% B = 83–86% C = 73–76% D = 63–66% B- = 80–82% C- = 70–72% D- = 60–62% F = \<60
