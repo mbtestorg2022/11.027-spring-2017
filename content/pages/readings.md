@@ -72,23 +72,23 @@ FEMA. _[Understanding Your Risks: Identifying Hazards and Estimating Losses](htt
 
 Lindell, Michael K., Carla S. Prater, and Ronald W. Perry. "Chapter 7: Hazard Mitigation." In _[Fundamentals of Emergency Management](https://training.fema.gov/hiedu/aemrc/booksdownload/fem/)_. FEMA, 2006.
 
-Torsell, Carolyn V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Federal Disaster Recovery Programs: Brief Summaries." (PDF)](http://nationalaglawcenter.org/wp-content/uploads/assets/crs/RL31734.pdf) _Congressional Research Service_. August 10, 2012.
+Torsell, Carolyn V. ["Federal Disaster Recovery Programs: Brief Summaries." (PDF)](http://nationalaglawcenter.org/wp-content/uploads/assets/crs/RL31734.pdf) _Congressional Research Service_. August 10, 2012.
 
-Liu, Amy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Federal Post-Disaster Recovery: A Review of Federal Programs." (PDF)](https://www.urban.org/sites/default/files/publication/28091/1001384-Federal-Post-Disaster-Recovery-A-Review-of-Federal-Programs.PDF) _What Works Collaborative_. May 2010.
+Liu, Amy. ["Federal Post-Disaster Recovery: A Review of Federal Programs." (PDF)](https://www.urban.org/sites/default/files/publication/28091/1001384-Federal-Post-Disaster-Recovery-A-Review-of-Federal-Programs.PDF) _What Works Collaborative_. May 2010.
 
-Illinois Department of Natural Resources Office of Water Resources. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Floodplain Management in Illinois: Quick Guide." (PDF - 3MB)](https://www.dnr.illinois.gov/WaterResources/Documents/Resman_ILFPMQuickGuide.pdf) 2001.
+Illinois Department of Natural Resources Office of Water Resources. ["Floodplain Management in Illinois: Quick Guide." (PDF - 3MB)](https://www.dnr.illinois.gov/WaterResources/Documents/Resman_ILFPMQuickGuide.pdf) 2001.
 
-Boyd, Eugene. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Community Development Block Grant Funds in Disaster Relief and Recovery." (PDF)](https://fas.org/sgp/crs/misc/RL33330.pdf) _Congressional Research Service_. September 21, 2011.
+Boyd, Eugene. ["Community Development Block Grant Funds in Disaster Relief and Recovery." (PDF)](https://fas.org/sgp/crs/misc/RL33330.pdf) _Congressional Research Service_. September 21, 2011.
 
-Brown, Jared T., Francis X. McCarthy, and Edward C. Liu. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Analysis of the Sandy Recovery Improvement Act of 2013." (PDF)](https://www.everycrsreport.com/files/20130311_R42991_4e84b222699b9f08701f7221cf820e88ab26df3e.pdf) _Congressional Research Service_. March 11, 2013.
+Brown, Jared T., Francis X. McCarthy, and Edward C. Liu. ["Analysis of the Sandy Recovery Improvement Act of 2013." (PDF)](https://www.everycrsreport.com/files/20130311_R42991_4e84b222699b9f08701f7221cf820e88ab26df3e.pdf) _Congressional Research Service_. March 11, 2013.
 
-FEMA. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["National Flood Insurance Program: Answers to Questions About the NFIP." (PDF - 1.6MB)](https://www.fema.gov/media-library-data/20130726-1438-20490-1905/f084_atq_11aug11.pdf) March 2011.
+FEMA. ["National Flood Insurance Program: Answers to Questions About the NFIP." (PDF - 1.6MB)](https://www.fema.gov/media-library-data/20130726-1438-20490-1905/f084_atq_11aug11.pdf) March 2011.
 
 Schwab, James C., ed. "[Hazard Mitigation: Integrating Best Practices into Planning](https://www.fema.gov/media-library/assets/documents/19261)." American Planning Association, 2010.
 
 Lindell, Michael K., Carla S. Prater, and Ronald W. Perry. "Chapter 6: Hazard, Vulnerability and Risk Analysis." In _[Fundamentals of Emergency Management](https://training.fema.gov/hiedu/aemrc/booksdownload/fem/)_. FEMA, 2006.
 
-FEMA. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Hazard Mitigation Planning and Hazard Mitigation Grant Program; Interim Final Rule." (PDF)](https://www.fema.gov/pdf/help/fr02-4321.pdf) _Federal Register_. Vol. 67, No. 38. February 26, 2002.
+FEMA. ["Hazard Mitigation Planning and Hazard Mitigation Grant Program; Interim Final Rule." (PDF)](https://www.fema.gov/pdf/help/fr02-4321.pdf) _Federal Register_. Vol. 67, No. 38. February 26, 2002.
 
 Drabek, Thomas E. "[Managing the Emergency Response](http://www.jstor.org/stable/3135002)." _Public Administration Review_ 45 (1985): 85–92.
 
@@ -120,7 +120,7 @@ _Week 7 - Workshop in Chile_
 {{< tdopen >}}
 
 
-Czerwinski, Stanley J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Disaster Recovery: Selected Themes for Effective Long-Term Recovery." (PDF)](http://www.gao.gov/assets/600/591390.pdf) United States Government Accountability Office. June 6, 2012.
+Czerwinski, Stanley J. ["Disaster Recovery: Selected Themes for Effective Long-Term Recovery." (PDF)](http://www.gao.gov/assets/600/591390.pdf) United States Government Accountability Office. June 6, 2012.
 
 Olshansky, Robert B. "[Making a Difference: Stories of Successful Seismic Safety Advocates](http://earthquakespectra.org/doi/10.1193/1.1902953)." _Earthquake Spectra_. May 2005, Vol. 21, No. 2, pp. 441–464.
 
@@ -162,7 +162,7 @@ Park, YoungWon, Paul Hong, and James Jungbae Roh. "[Supply Chain Lessons from th
 
 Pittman, Elaine. "[What Big-Box Retailers Can Teach Government About Disaster Recovery](http://www.govtech.com/policy-management/Big-Box-Retailers-Teach-Disaster-Recovery.html)." _GovTech_. November 28, 2011.
 
-International Federation of Red Cross and Red Crescent Societies. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Introduction to Disaster Preparedness: Disaster Preparedness Training Programme_. (PDF - 2.3MB)](http://www.ifrc.org/Global/Publications/disasters/all.pdf) June 2000.
+International Federation of Red Cross and Red Crescent Societies. [_Introduction to Disaster Preparedness: Disaster Preparedness Training Programme_. (PDF - 2.3MB)](http://www.ifrc.org/Global/Publications/disasters/all.pdf) June 2000.
 
 FEMA. _[Fundamentals of Emergency Management](https://emilms.fema.gov/IS230c/)_.
 
@@ -208,7 +208,7 @@ Brian, Isabel, and Pía Mora. "Land Readjustment as Reconstruction Strategy in C
 
 Silver, Marc. "[Bill Gates Tells the World: Get Ready for the Next Epidemic](http://www.npr.org/sections/goatsandsoda/2015/03/30/393848395/bill-gates-tells-the-world-get-ready-for-the-next-epidemic)." _NPR Goats and Soda_. March 30, 2015.
 
-American Planning Association Hazards Planning Research Center. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Integrating Hazard Mitigation into Local Planning: A Literature Review and Resource List_ (PDF)](http://planning-org-uploaded-media.s3.amazonaws.com/legacy_resources/research/hazards/pdf/hazardsbibliography.pdf).
+American Planning Association Hazards Planning Research Center. [_Integrating Hazard Mitigation into Local Planning: A Literature Review and Resource List_ (PDF)](http://planning-org-uploaded-media.s3.amazonaws.com/legacy_resources/research/hazards/pdf/hazardsbibliography.pdf).
 
 
 {{< tdclose >}}
